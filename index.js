@@ -7,7 +7,7 @@ for (var i = 0; i<buttonLength; i++) {
 function buttonClickFunction() {
     var buttonClick = this.innerHTML;
     makeSound(buttonClick);
-    buttonAnimation(buttonClickHTML);
+    buttonAnimation(buttonClick);
 }
 
 document.addEventListener("keydown",function(event) {
