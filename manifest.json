@@ -13,4 +13,12 @@
         "type": "image/png"
       }
     ]
+    "shortcuts" : [
+  {
+    "name": "Linkedin",
+    "url": "https://www.linkedin.com/in/surya-kant-yadav-6192a224a",
+    "description": "Linkedin Profile"
+  },
+]
+    
   }
