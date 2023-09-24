@@ -2,7 +2,7 @@
     "name": "Drum Roll App",
     "short_name": "Drum Roll",
     "description": "Create drum roll sounds online!",
-    "start_url": "/",
+    "start_url": "https://suryakant01.github.io/DrumRoll/",
     "display": "standalone",
     "background_color": "#BFACE2",
     "theme_color": "#56067d",
